@@ -1,0 +1,21 @@
+AMZN:Amazon.com: Inc.:342.38
+IBM:International Bus:191.56
+CSCO:Cisco Systems: In:24.88
+QCOM:QUALCOMM Incorpor:75.06
+GOOG:Google Inc.:577.33
+FB:Facebook, Inc.:76.68
+GM:General Motors Co:34.8
+COST:Costco Wholesale :121.56
+ADBE:Adobe Systems Inc:72.1
+ADTN:ADTRAN, Inc.:23.17
+Z:Zillow, Inc.:144.07
+YHOO:Yahoo! Inc.:39.27
+YOD:You On Demand Hol:2.08
+XOOM:Xoom Corporation:22.65
+XLNX:Xilinx, Inc.:42
+WFD:Westfield Financi:7.29
+WFM:Whole Foods Marke:39.09
+WEN:Wendy's Company (:8.075
+VIA:Viacom Inc.:81.45
+VICR:Vicor Corporation:8.63
+VIVO:Meridian Bioscien:19.37

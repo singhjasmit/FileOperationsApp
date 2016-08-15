@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:padding="10dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/sym"
+        android:textSize="10sp"
+        android:text="AAPL"
+        android:padding="5dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/sym"
+        android:id="@+id/price"
+        android:textSize="10sp"
+        android:padding="5dp"
+        android:text="000.00" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/sym"
+        android:id="@+id/name"
+        android:textSize="10sp"
+        android:padding="5dp"
+        android:text="Apple " />
+
+
+
+</RelativeLayout>
